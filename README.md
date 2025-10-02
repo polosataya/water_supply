@@ -5,6 +5,6 @@
 
 Демонстрация решения по [ссылке](https://0199a4d4-6997-eb19-f8cf-0e336bfbcf0c.share.connect.posit.cloud/) на posit.cloud.  
 
-Презентация в файле [**Презентация задача 2 DF**](DF задача 2.pdf).
+Презентация в файле [**Презентация задача 2 DF**](https://github.com/polosataya/water_supply/blob/main/DF_2.pdf).
 
-Документация в файле [**Документация задача 2 DF**](Документация задача 2 DF.docx).
+Документация в файле [**Документация задача 2 DF**](https://github.com/polosataya/water_supply/blob/main/Docx_02_DF.docx).
